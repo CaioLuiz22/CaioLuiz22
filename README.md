@@ -11,7 +11,6 @@
 <div style='display: inline_block'><br/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white'/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
     <img align='center' alt='html5' src='https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white'/>
