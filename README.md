@@ -17,4 +17,4 @@
     <img align='center' alt='html5' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'/>
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuiz22&layout=compact)
+![Top Langs]()
